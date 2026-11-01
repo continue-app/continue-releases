@@ -1,1 +1,3 @@
 # continue-releases
+
+Continue is a Windows app for people who open the same set of things for each kind of work: a game server, a project, a study session. Create a profile with its apps, files, folders and links, and start them all at once, in the order you choose. When you finish, Continue asks whether you want to pick up where you left off next time. Your profiles and saved session live in your account, so you can resume them on another PC. Continue is honest about what it knows: it reports only what it has verified, and it does not promise to restore unsaved documents, browser tabs or game state.
